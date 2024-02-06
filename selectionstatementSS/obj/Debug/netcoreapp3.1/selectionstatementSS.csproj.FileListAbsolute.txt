@@ -1,0 +1,13 @@
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\obj\Debug\netcoreapp3.1\selectionstatementSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\obj\Debug\netcoreapp3.1\selectionstatementSS.AssemblyInfoInputs.cache
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\obj\Debug\netcoreapp3.1\selectionstatementSS.AssemblyInfo.cs
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\obj\Debug\netcoreapp3.1\selectionstatementSS.csproj.CoreCompileInputs.cache
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\bin\Debug\netcoreapp3.1\selectionstatementSS.exe
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\bin\Debug\netcoreapp3.1\selectionstatementSS.deps.json
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\bin\Debug\netcoreapp3.1\selectionstatementSS.runtimeconfig.json
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\bin\Debug\netcoreapp3.1\selectionstatementSS.runtimeconfig.dev.json
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\bin\Debug\netcoreapp3.1\selectionstatementSS.dll
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\bin\Debug\netcoreapp3.1\selectionstatementSS.pdb
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\obj\Debug\netcoreapp3.1\selectionstatementSS.dll
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\obj\Debug\netcoreapp3.1\selectionstatementSS.pdb
+C:\Users\tricu\OneDrive\Desktop\repos\selectionstatementSS\selectionstatementSS\obj\Debug\netcoreapp3.1\selectionstatementSS.genruntimeconfig.cache
